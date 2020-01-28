@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+body {
+  background-color: #201d1e;
+  color: #fff;
+}
+
+#container {
+  margin: 0 auto;
+  width: 920px;
+}
+
+.logo {
+  text-align: center;
+  margin: 50px 0 80px 0;
+}
+
+#About {
+  margin-bottom: 100px; /* consisteny margin bottom each article */
+}
+
+.title {
+  color: #201d1e;
+  background-color: #f0e9da;
+  width: 450px;
+  height: 70px;
+}
+
+.right {
+  float: right;
+  text-align: right;
+}
+.title h1 {
+  font-family: 'Enriqueta', serif;
+  font-size: 40px;
+  padding: 15px 10px 0 10px;
+}
+
+h2, span {
+  font-family: 'Palanquin', sans-serif;
+  font-size:30px;
+  padding: 20px 10px;
+}
+
+p {
+  font-weight: 300;
+  font-family: Helvetica, arial, "Arial", sans-serif;
+  letter-spacing: 0.3px;
+  line-height: 20px;
+  padding-left: 10px;
+}
+
+#Why {
+  height: 800px;
+}
+
+
+.imgBox {
+  position: relative;
+  width:559px;
+  height: 345px;
+  float: right;
+  margin-top: 20px;
+}
+
+.white {
+  position: absolute;
+  margin: 400px 0 80px 0;
+  width: 600px;
+  background-color: #fff;
+}
+
+.white p {
+  padding: 50px 0 0 10px;
+  color: #201d1e;
+}
+
+.white h2 {
+  padding-bottom: 50px;
+  color: #201d1e;
+}
+
+.valueBox {
+  width: 920px;
+  padding:30px 0 0 10px;
+}
+
+.valueBox:last-child {
+  margin-bottom: 100px;
+}
+
+.valueBox p {
+  padding: 0;
+}
+
+h3 {
+  letter-spacing: 0.7px;
+  font-size: 23px;
+  padding-bottom: 10px;
+  color: #f0e9da;
+  font-family: 'Enriqueta', serif;
+}
+#Beer {
+  background-color: pink;
+  height: 1170px;
+}
+
+#Contact {
+  background-color: red;
+  height: 590px;
+}
