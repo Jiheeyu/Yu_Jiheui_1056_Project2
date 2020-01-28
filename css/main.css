@@ -1,1 +1,66 @@
 @charset "UTF-8";
+
+body {
+  background-color: #201d1e;
+  color: #fff;
+}
+
+#container {
+  margin: 0 auto;
+  width: 920px;
+}
+
+.logo {
+  text-align: center;
+  margin: 50px 0 80px 0;
+}
+
+#About {
+  margin-bottom: 80px;
+}
+
+.title {
+  color: #201d1e;
+  background-color: #f0e9da;
+  width: 500px;
+  height: 100px;
+}
+
+.title h1 {
+  font-family: 'Enriqueta', serif;
+  font-size: 40px;
+  padding: 30px 0px 0 10px;
+}
+
+h2 {
+  font-family: 'Palanquin', sans-serif;
+  font-size:30px;
+  padding: 20px 10px;
+}
+
+p {
+  font-family: Helvetica, arial, "Arial", sans-serif;
+  letter-spacing: 0.3px;
+  line-height: 20px;
+  padding-left: 10px;
+}
+
+#Why {
+  background-color: yellow;
+  height: 1000px;
+}
+
+#Value {
+  background-color: blue;
+  height: 1648px;
+}
+
+#Beer {
+  background-color: pink;
+  height: 1170px;
+}
+
+#Contact {
+  background-color: red;
+  height: 590px;
+}
